@@ -1,5 +1,8 @@
+
 /**
- Abstract classes—for which you never intend to create objects.
+ * @author PNimmanapalli
+ *
+ * Abstract classes—for which you never intend to create objects.
  You make a class abstract by declaring it with keyword abstract. An abstract class normally
 contains one or more abstract methods. An abstract method is one with keyword
 abstract in its declaration, as in
@@ -61,8 +64,11 @@ abstract.
 Java does not allow subclasses to inherit from more than one superclass, but it allows a class to inherit from one superclass and implement
 as many interfaces as it needs.
 	public class ClassName extends SuperclassName implements FirstInterface, SecondInterface,
-
- **/
+ *
+ *
+ *
+ *
+ */
 
 
 public interface Chapter10_Payable 

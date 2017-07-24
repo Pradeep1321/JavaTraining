@@ -1,6 +1,8 @@
-import java.util.Scanner;
 
 /**
+ * @author PNimmanapalli
+ *
+ 
  * A static method is special, because you can call it without first creating an object of the class in which the method is declared.
  * 
  * Typically, you cannot call a method that belongs to another class until you create an object of that class,
@@ -14,8 +16,10 @@ time an object is created to initialize the object’s data. You’ll see that data 
  * 
  * Primitive-type instance variables are initialized by default—variables of types byte, char, short, int, long, float and
 double are initialized to 0, and variables of type boolean are initialized to false.
- * 
+ * *
  */
+
+import java.util.Scanner;
 
 public class Chapter3GradeBookTest {
 

@@ -1,13 +1,15 @@
+
 /**
-11.8 Chained Exceptions:
+ * @author PNimmanapalli
+ *
+ * 11.8 Chained Exceptions:
 If a catch block throws a new exception, the original exception’s information and stack trace are lost.
 Chained exceptions enable an exception object to maintain the complete stack-trace information from the original exception
  
  
+ *
+ */
 
- * 
- * 
- **/
 //Fig. 11.6: UsingChainedExceptions.java
 //Chained exceptions.
 

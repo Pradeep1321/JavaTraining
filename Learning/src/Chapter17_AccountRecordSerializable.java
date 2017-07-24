@@ -1,5 +1,6 @@
 /**
- *17.5 Object Serialization
+ * @author PNimmanapalli
+ * *17.5 Object Serialization
 Sometimes we’ll not know exactly how the data
 is stored in a file. In such cases, we want to read or write an entire object from a file. Java
 provides such a mechanism, called object serialization. A so-called serialized object is an
@@ -44,11 +45,9 @@ We chose the .ser file extension for binary files that contain serialized object
 
 
 NOTE: If you dont want to serialize some sensitive data use the key word : "transient:
-
- * 
- * 
- * 
- **/
+ *
+ *
+ */
 
 
 import java.io.Serializable;

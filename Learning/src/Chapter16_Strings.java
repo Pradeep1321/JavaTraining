@@ -1,6 +1,7 @@
 /**
+ * @author PNimmanapalli
  *
- A character literal is an integer value represented as a character
+ * A character literal is an integer value represented as a character
 in single quotes. For example, 'z' represents the integer value of z, and '\n' represents the
 integer value of newline. The value of a character literal is the integer value of the character
 in the Unicode character set.
@@ -43,12 +44,9 @@ StringBuilders are not thread safe. If multiple threads require access to the sa
 dynamic string information, use class StringBuffer in your code. Classes StringBuilder
 and StringBuffer provide identical capabilities, but class StringBuffer is thread safe.
 
-
-
- * 
- **/
-
-
+ *
+ *
+ */
 public class Chapter16_Strings {
 
 	public static void main( String[] args )

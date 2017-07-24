@@ -1,5 +1,7 @@
 /**
- *8.10 Garbage Collection and Method finalize
+ * @author PNimmanapalli
+ * *8.10 Garbage Collection and Method finalize
+
  *
  *Every class in Java has the methods of class Object (package java.lang), one of which is
 the finalize method.
@@ -90,11 +92,12 @@ a list of directories or archive files separated by semicolons (;)
 8.15 Package Access
 
 
-
- **/
-
+ *
+ *
+ */
 import java.awt.Color;
 import java.awt.Graphics;
+
 
 public class Chpater8_18_MyLine {
 	

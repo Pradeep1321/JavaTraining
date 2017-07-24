@@ -1,4 +1,6 @@
 /**
+ * @author PNimmanapalli
+ *
 The Java API provides several predefined data structures, called collections, used to store
 groups of related objects. These classes provide efficient methods that organize, store and
 retrieve your data without requiring knowledge of how the data is being stored.
@@ -9,8 +11,10 @@ it can dynamically change its size to accommodate more elements
 ArrayList< String > items = new ArrayList< String >();
 items.add( "red" );
 
-*
-**/
+ *
+ *
+ */
+
 import java.util.ArrayList;
 
 // Generic ArrayList<T> collection demonstration.

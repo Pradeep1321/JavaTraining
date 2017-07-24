@@ -1,6 +1,7 @@
 /**
- * 
-A regular expression is a String that describes a search pattern for matching characters in other Strings 
+ * @author PNimmanapalli
+ *
+ *A regular expression is a String that describes a search pattern for matching characters in other Strings 
 
 
 String method matches receives a String that specifies the regular expression and matches the contents of the String object
@@ -45,15 +46,10 @@ white space. So the address must contain a number followed by one or two words. 
 "10 Broadway" and "10 Main Street" are both valid addresses in this example
 
 
- * 
- **/
-
-
-
+ *
+ */
 public class Chapter16_RegualrExp {
 
-	
-	
 	public static boolean validateFirstName( String firstName )
 	{
 		return firstName.matches( "[A-Z][a-zA-Z]*" );

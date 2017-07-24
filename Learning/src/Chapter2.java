@@ -1,16 +1,6 @@
-
-import java.util.Scanner;;
-
-public class Chapter2 
-{
-	// Single line comments
-	/* Multiple
-	 * Line Comments
-	 * 
-	 * 
-	 */
-	/**
-	 * Java Doc comments
+/**
+ * @author PNimmanapalli
+ *	 * Java Doc comments
 	 * @param args
 	 * Javadoc comments enable you to embed program documentation directly in your programs. Such comments
          are the preferred Java documenting format in industry.
@@ -26,10 +16,27 @@ public class Chapter2
 	 *
 	 *Any class can contain a main method. The JVM invokes the main method only in the class used to execute the application. If an application has multiple classes that contain
 		main, the one that’s invoked is the one in the class named in the java command. 
-	 *
-	 *
-	 *
+
+	// Single line comments
+	/* Multiple
+	 * Line Comments
+	 * 
+	 * 
 	 */
+	/**
+	 *
+	 *
+	 *
+	 *"/"
+ *
+ *
+ */
+
+
+import java.util.Scanner;;
+
+public class Chapter2 
+{
 	public static void main (String[] args)
 	{
 		System.out.println("Welcome to Java");

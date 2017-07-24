@@ -1,11 +1,13 @@
 /**
- * 
-class String’s split method, which
-breaks a String into its component tokens. Tokens are separated from one another by delimiters,
+ * @author PNimmanapalli
+class String’s split method, which breaks a String into its component tokens. Tokens are separated from one another by delimiters,
 typically white-space characters such as space, tab, newline and carriage return.
 
- * 
- **/
+ 
+ *
+ *
+ */
+
 
 // StringTokenizer object used to tokenize strings.
 

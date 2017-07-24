@@ -1,5 +1,6 @@
 /**
- *data structures—collections of related data items. Arrays are data
+ * @author PNimmanapalli
+ * *data structures—collections of related data items. Arrays are data
 structures consisting of related data items of the same type
  *Arrays remain the same length once they’re created, although
 an array variable may be reassigned such that it refers to a new array of a different
@@ -52,13 +53,10 @@ argument lists, using an ellipsis in a method’s parameter list is more concise.
 
  	public static double average( double... numbers)
  
+
  *
  *
- **/
-
-
-
-
+ */
 public class Chapter7_5_Card {
 
 	private String face; // face of card ("Ace", "Deuce", ...)

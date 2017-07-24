@@ -1,6 +1,6 @@
 /**
- * 
-Byte-Based and Character-Based Streams:
+ * @author PNimmanapalli
+ *Byte-Based and Character-Based Streams:
 
 File streams can be used to input and output data as bytes or characters. Byte-based
 streams input and output data in its binary format. Character-based streams input and
@@ -49,11 +49,10 @@ the text file can be opened and viewed correctly in a text editor for the platfo
 the file was created.
 
 
+ *
+ *
+ */
 
-
- * 
- * 
- **/
 
 import java.io.File;
 import java.util.Scanner;

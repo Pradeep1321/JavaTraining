@@ -1,5 +1,6 @@
 /**
- 17.6.1 Interfaces and Classes for Byte-Based Input and Output:
+ * @author PNimmanapalli
+ * 17.6.1 Interfaces and Classes for Byte-Based Input and Output:
 
 InputStream and OutputStream are abstract classes that declare methods for performing
 byte-based input and output, respectively.
@@ -116,11 +117,11 @@ Declaration of Serializable Classes may change over time. The Variable serialVer
 of the class in both JVMs is the same.
 			private static final long serialVersionUID = 1L;
  InvalidClassException the declaration indicates that the serialVersionUID are different in JVM that serializes and 
- deserializes the object.
- * 
- * 
- * 
- **/
+ deserializes the object
+ *
+ *
+ */
+
 
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;

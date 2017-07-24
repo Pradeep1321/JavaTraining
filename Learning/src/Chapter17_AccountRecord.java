@@ -1,5 +1,3 @@
-
-
 public class Chapter17_AccountRecord {
 
 	private int account;

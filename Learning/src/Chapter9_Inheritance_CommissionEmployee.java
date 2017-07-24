@@ -1,5 +1,6 @@
 /**
- *Java supports only single inheritance, in which each class is derived from exactly one direct superclass.
+ * @author PNimmanapalli
+ * *Java supports only single inheritance, in which each class is derived from exactly one direct superclass.
  * 
  *
  9.3 protected Members
@@ -57,8 +58,10 @@ for booleans, null for references).
 
 When a superclass variable contains a reference to a subclass object, and
 that reference is used to call a method, the subclass version of the method is called.
- 
- **/
+
+ *
+ *
+ */
 
 // private instance variables.
 public class Chapter9_Inheritance_CommissionEmployee {

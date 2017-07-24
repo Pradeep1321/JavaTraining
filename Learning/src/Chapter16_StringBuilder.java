@@ -1,6 +1,7 @@
 /**
- * 
- *We now discuss the features of class StringBuilder for creating and manipulating dynamic
+ * @author PNimmanapalli
+ *
+ * *We now discuss the features of class StringBuilder for creating and manipulating dynamic
 string information—that is, modifiable strings. Every StringBuilder is capable of storing
 a number of characters specified by its capacity.
 
@@ -35,8 +36,8 @@ various types to be appended to the end of a StringBuilder.
 16.4.5 StringBuilder Insertion and Deletion Methods:
 
 
- * 
- **/
+ *
+ */
 public class Chapter16_StringBuilder {
 
 	public static void main( String[] args )

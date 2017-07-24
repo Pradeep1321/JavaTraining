@@ -1,5 +1,7 @@
 /**
- * Every object can access a reference to itself with keyword this (sometimes called the this
+ * @author PNimmanapalli
+ *
+ * * Every object can access a reference to itself with keyword this (sometimes called the this
 reference). When a non-static method is called for a particular object, the method’s body
 implicitly uses keyword this to refer to the object’s instance variables and other methods.
 
@@ -42,10 +44,9 @@ compilation error.
 '
 In an enum declaration, it’s a syntax error to declare enum constants after the enum type’s
 constructors, fields and methods.
- * 
- **/
 
-
+ *
+ */
 public enum Chapter8_Book {
 	
 	// declare constants of enum type

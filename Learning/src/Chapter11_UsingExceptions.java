@@ -1,5 +1,8 @@
+
 /**
-Exception handling is designed to process synchronous errors, which occur when a statement
+ * @author PNimmanapalli
+ *
+ *Exception handling is designed to process synchronous errors, which occur when a statement
 executes. Common examples we’ll see throughout the book are out-of-range array
 indices, arithmetic overflow (i.e., a value outside the representable range of values), division
 by zero, invalid method parameters, thread interruption (as we’ll see in Chapter 26)
@@ -47,7 +50,11 @@ System.out and System.err are streams—sequences of bytes. While System.out
 (known as the standard output stream) displays a program’s output, System.err (known
 as the standard error stream) displays a program’s errors
 
- **/
+ *
+ *
+ */
+
+
 // Fig. 11.4: UsingExceptions.java
 // try...catch...finally exception handling mechanism.
 

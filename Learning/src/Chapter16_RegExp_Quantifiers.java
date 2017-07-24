@@ -1,6 +1,7 @@
 /**
+ * @author PNimmanapalli
  *
- The asterisk (*) and plus (+) are formally called quantifiers.
+ * The asterisk (*) and plus (+) are formally called quantifiers.
  
  Quantifier       Matches
    *              Matches zero or more occurrences of the pattern.
@@ -37,9 +38,9 @@ in the Matcher object. Class Matcher provides other methods, including find,
 lookingAt, replaceFirst and replaceAll.
 
 
- 
- * 
- **/
+ *
+ */
+
 
 import java.util.Arrays;
 
